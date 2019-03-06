@@ -2,7 +2,6 @@ export default {
 
     toolbar: 'formatselect | bold italic strikethrough forecolor backcolor  | link image media  | alignleft aligncenter alignright alignjustify  | numlist bullist outdent indent | removeformat | codesample code',
     plugins: [
-        "forecolor",
         "code",
         "paste",
         "print",
